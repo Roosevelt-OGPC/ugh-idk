@@ -1,0 +1,205 @@
+2016-01-15 09:46:53,407 INFO  [main] stencyl.sw.Session: Logfile: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\logs\2016-01-15_09-46-53.log
+2016-01-15 09:46:53,423 INFO  [main] stencyl.sw.Session: OS Name: Windows 7
+2016-01-15 09:46:53,423 INFO  [main] stencyl.sw.Session: OS Version: 6.1 (64-bit)
+2016-01-15 09:46:53,423 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_60
+2016-01-15 09:46:53,423 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.2 (b8734)
+2016-01-15 09:46:53,439 INFO  [main] stencyl.sw.Session: Stencyl Workspace: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\
+2016-01-15 09:46:53,439 INFO  [main] stencyl.sw.Session: User Working Directory: C:\Users\EConway6922\Downloads\Stencyl
+2016-01-15 09:46:53,439 INFO  [main] stencyl.sw.Session: User Home Directory: C:\Users\EConway6922
+2016-01-15 09:46:53,439 INFO  [main] stencyl.sw.Session: System Path: C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\CCM;C:\WINDOWS\CCM;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\EConway6922\Downloads\Stencyl\runtimes\jre-win\bin
+2016-01-15 09:46:53,641 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: C:\Users\ECONWA~1\AppData\Local\Temp\stencyl3615452701211764376
+2016-01-15 09:46:53,641 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2016-01-15 09:46:53,657 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2016-01-15 09:46:53,657 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2016-01-15 09:46:53,657 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2016-01-15 09:46:53,673 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2016-01-15 09:46:53,673 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2016-01-15 09:46:53,673 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2016-01-15 09:46:53,673 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2016-01-15 09:46:53,673 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2016-01-15 09:46:53,704 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2016-01-15 09:46:53,704 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2016-01-15 09:46:53,704 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2016-01-15 09:46:53,704 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2016-01-15 09:46:53,704 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2016-01-15 09:46:53,719 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2016-01-15 09:46:53,735 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2016-01-15 09:46:53,751 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2016-01-15 09:46:53,766 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2016-01-15 09:46:53,782 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2016-01-15 09:46:53,797 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2016-01-15 09:46:53,797 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2016-01-15 09:46:53,813 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Set Splash message: Look
+2016-01-15 09:46:55,186 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib actuate 1.6.5
+2016-01-15 09:46:55,202 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d 1.11.0
+2016-01-15 09:46:55,202 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d-fake 1.11.0
+2016-01-15 09:46:55,202 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib console 1.0.0
+2016-01-15 09:46:55,202 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib format 3.1.2
+2016-01-15 09:46:55,202 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxcpp 3.2.0
+2016-01-15 09:46:55,202 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxtelemetry 0.3.1
+2016-01-15 09:46:55,218 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib layout 1.1.0
+2016-01-15 09:46:55,218 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib lime 2.6.8
+2016-01-15 09:46:55,218 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib openfl 3.3.8
+2016-01-15 09:46:55,218 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-ds 1.4.1
+2016-01-15 09:46:55,218 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-printf 1.0.0.beta
+2016-01-15 09:46:55,218 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl 1.0.0
+2016-01-15 09:46:55,218 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl-cppia 1.0.0
+2016-01-15 09:46:55,218 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib svg 1.0.8
+2016-01-15 09:46:55,233 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib swf 1.7.4
+2016-01-15 09:46:55,233 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib tilelayer 0.2.1
+2016-01-15 09:46:55,264 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\extensions: []
+2016-01-15 09:46:55,264 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\extensions: []
+2016-01-15 09:46:55,264 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Loading engine extensions...
+2016-01-15 09:46:55,264 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\engine-extensions: []
+2016-01-15 09:46:55,264 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Engine Extensions: []
+2016-01-15 09:46:55,264 WARN  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Couldn't load extension settings.
+2016-01-15 09:46:55,280 INFO  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Toolset Extensions: []
+2016-01-15 09:46:55,639 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2016-01-15 09:46:55,654 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Non-silent Authentication.
+2016-01-15 09:46:55,654 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Dispose Splash
+2016-01-15 09:46:55,764 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: guest
+2016-01-15 09:46:55,764 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Could not log in. Check your login credentials.
+2016-01-15 09:50:01,724 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Export Game...
+2016-01-15 09:50:08,667 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Preferences...
+2016-01-15 09:50:09,057 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\lang. It does not exist or is not a directory.
+2016-01-15 09:50:09,073 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within lang: [lang\br, lang\de, lang\el, lang\en, lang\es, lang\fi, lang\fr, lang\it, lang\nl, lang\pl, lang\pt, lang\ru, lang\zh, lang\zh_CN]
+2016-01-15 09:50:09,119 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Breton in lang\br
+2016-01-15 09:50:09,119 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found German in lang\de
+2016-01-15 09:50:09,119 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Greek in lang\el
+2016-01-15 09:50:09,119 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found English in lang\en
+2016-01-15 09:50:09,119 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Spanish in lang\es
+2016-01-15 09:50:09,119 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Finnish in lang\fi
+2016-01-15 09:50:09,119 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found French in lang\fr
+2016-01-15 09:50:09,119 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Italian in lang\it
+2016-01-15 09:50:09,135 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Dutch in lang\nl
+2016-01-15 09:50:09,135 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Polish in lang\pl
+2016-01-15 09:50:09,135 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Portuguese in lang\pt
+2016-01-15 09:50:09,135 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Russian in lang\ru
+2016-01-15 09:50:09,135 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese in lang\zh
+2016-01-15 09:50:09,135 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese (China) in lang\zh_CN
+2016-01-15 09:50:20,119 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.GeneralPage: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\
+2016-01-15 09:50:20,119 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\temp
+2016-01-15 09:50:27,342 DEBUG [AWT-EventQueue-0] stencyl.sw.SW: Frame was maximized
+2016-01-15 09:50:55,344 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Preferences...
+2016-01-15 09:50:59,790 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.GeneralPage: Choose Folder...
+2016-01-15 09:51:13,770 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\temp
+2016-01-15 09:51:17,124 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.GeneralPage: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\
+2016-01-15 09:51:17,124 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\temp
+2016-01-15 09:51:18,902 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.GeneralPage: Choose Folder...
+2016-01-15 09:51:27,561 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\EConway6922\Desktop\temp
+2016-01-15 09:51:32,086 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\
+2016-01-15 09:51:32,086 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is being set to: C:\Users\EConway6922\Desktop\
+2016-01-15 09:51:32,102 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\prefs to: C:\Users\EConway6922\Desktop\stencylworks\prefs
+2016-01-15 09:51:32,102 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\prefs\boot.txt to: C:\Users\EConway6922\Desktop\stencylworks\prefs\boot.txt
+2016-01-15 09:51:32,180 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\prefs\designmode2.layout to: C:\Users\EConway6922\Desktop\stencylworks\prefs\designmode2.layout
+2016-01-15 09:51:32,180 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\prefs\favorites.xml to: C:\Users\EConway6922\Desktop\stencylworks\prefs\favorites.xml
+2016-01-15 09:51:32,211 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\prefs\picker-favorites.xml to: C:\Users\EConway6922\Desktop\stencylworks\prefs\picker-favorites.xml
+2016-01-15 09:51:32,226 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\prefs\scenedesigner.layout to: C:\Users\EConway6922\Desktop\stencylworks\prefs\scenedesigner.layout
+2016-01-15 09:51:32,226 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games to: C:\Users\EConway6922\Desktop\stencylworks\games
+2016-01-15 09:51:32,226 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC
+2016-01-15 09:51:32,242 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\favorites.xml to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\favorites.xml
+2016-01-15 09:51:32,242 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\game.xml to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\game.xml
+2016-01-15 09:51:32,258 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-120.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-120.png
+2016-01-15 09:51:32,273 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-128.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-128.png
+2016-01-15 09:51:32,289 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-152.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-152.png
+2016-01-15 09:51:32,304 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-16.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-16.png
+2016-01-15 09:51:32,304 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-24.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-24.png
+2016-01-15 09:51:32,320 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-256.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-256.png
+2016-01-15 09:51:32,336 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-32.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-32.png
+2016-01-15 09:51:32,336 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-48.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-48.png
+2016-01-15 09:51:32,336 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-512.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-512.png
+2016-01-15 09:51:32,367 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-76.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-76.png
+2016-01-15 09:51:32,382 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\Icon-96.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\Icon-96.png
+2016-01-15 09:51:32,398 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\inner-joystick.png
+2016-01-15 09:51:32,414 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick@1.5x.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\inner-joystick@1.5x.png
+2016-01-15 09:51:32,429 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick@2x.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\inner-joystick@2x.png
+2016-01-15 09:51:32,445 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick@4x.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\inner-joystick@4x.png
+2016-01-15 09:51:32,445 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ios-icon-half.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ios-icon-half.png
+2016-01-15 09:51:32,476 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ios-icon.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ios-icon.png
+2016-01-15 09:51:32,492 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ios-splash-half.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ios-splash-half.png
+2016-01-15 09:51:32,492 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ios-splash.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ios-splash.png
+2016-01-15 09:51:32,492 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ios-splash5.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ios-splash5.png
+2016-01-15 09:51:32,507 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ios-splash6.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ios-splash6.png
+2016-01-15 09:51:32,523 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ios-splash6p.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ios-splash6p.png
+2016-01-15 09:51:32,538 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ipad-icon-half.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ipad-icon-half.png
+2016-01-15 09:51:32,570 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ipad-icon.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ipad-icon.png
+2016-01-15 09:51:32,570 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ipad-splash-half.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ipad-splash-half.png
+2016-01-15 09:51:32,601 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\ipad-splash.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\ipad-splash.png
+2016-01-15 09:51:32,601 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\linked to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\linked
+2016-01-15 09:51:32,601 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\linked\data.xml to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\linked\data.xml
+2016-01-15 09:51:32,616 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\master-icon.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\master-icon.png
+2016-01-15 09:51:32,632 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\outer-joystick.png
+2016-01-15 09:51:32,648 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick@1.5x.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\outer-joystick@1.5x.png
+2016-01-15 09:51:32,663 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick@2x.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\outer-joystick@2x.png
+2016-01-15 09:51:32,679 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick@4x.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\outer-joystick@4x.png
+2016-01-15 09:51:32,694 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\preloader.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\preloader.png
+2016-01-15 09:51:32,694 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\resources to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\resources
+2016-01-15 09:51:32,694 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\resources\data.xml
+2016-01-15 09:51:32,710 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak
+2016-01-15 09:51:32,710 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\resources.xml to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\resources.xml
+2016-01-15 09:51:32,710 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\scenes to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\scenes
+2016-01-15 09:51:32,726 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\scenes\scenes.xml to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\scenes\scenes.xml
+2016-01-15 09:51:32,726 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\snippets to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\snippets
+2016-01-15 09:51:32,726 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\snippets\0.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\snippets\0.png
+2016-01-15 09:51:32,772 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\snippets\list.xml
+2016-01-15 09:51:32,772 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design
+2016-01-15 09:51:32,788 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\win8-splash.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\win8-splash.png
+2016-01-15 09:51:32,819 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\win8-tile.png to: C:\Users\EConway6922\Desktop\stencylworks\games\Roosevelt OGPC\win8-tile.png
+2016-01-15 09:51:32,835 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\logs to: C:\Users\EConway6922\Desktop\stencylworks\logs
+2016-01-15 09:51:32,835 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\logs\2016-01-14_14-53-28.log to: C:\Users\EConway6922\Desktop\stencylworks\logs\2016-01-14_14-53-28.log
+2016-01-15 09:51:32,835 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\logs\2016-01-15_09-45-27.log to: C:\Users\EConway6922\Desktop\stencylworks\logs\2016-01-15_09-45-27.log
+2016-01-15 09:51:32,835 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\EConway6922\Documents\GitHub\Roosevelt-OGPC\stencylworks\logs\2016-01-15_09-46-53.log to: C:\Users\EConway6922\Desktop\stencylworks\logs\2016-01-15_09-46-53.log

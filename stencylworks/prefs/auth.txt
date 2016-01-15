@@ -1,0 +1,2 @@
+global.password=6fa422355005f9511454262136360d21d0297c6c
+global.user=RDMSpaceGhostBMB

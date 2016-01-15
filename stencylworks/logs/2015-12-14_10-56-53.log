@@ -1,0 +1,260 @@
+2015-12-14 10:56:53,574 INFO  [main] stencyl.sw.Session: Logfile: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-14_10-56-53.log
+2015-12-14 10:56:53,590 INFO  [main] stencyl.sw.Session: OS Name: Windows 7
+2015-12-14 10:56:53,590 INFO  [main] stencyl.sw.Session: OS Version: 6.1 (64-bit)
+2015-12-14 10:56:53,590 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_60
+2015-12-14 10:56:53,590 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.2 (b8734)
+2015-12-14 10:56:53,590 INFO  [main] stencyl.sw.Session: Stencyl Workspace: C:\Users\rmills0865\AppData\Roaming\Stencyl\
+2015-12-14 10:56:53,590 INFO  [main] stencyl.sw.Session: User Working Directory: C:\Program Files (x86)\Stencyl
+2015-12-14 10:56:53,590 INFO  [main] stencyl.sw.Session: User Home Directory: C:\Users\rmills0865
+2015-12-14 10:56:53,590 INFO  [main] stencyl.sw.Session: System Path: C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\CCM;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Stencyl\runtimes\jre-win\bin
+2015-12-14 10:56:53,668 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: C:\Users\RMILLS~1\AppData\Local\Temp\stencyl3467812550929449502
+2015-12-14 10:56:53,668 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2015-12-14 10:56:53,668 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2015-12-14 10:56:53,668 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2015-12-14 10:56:53,668 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2015-12-14 10:56:53,668 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2015-12-14 10:56:53,668 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2015-12-14 10:56:53,683 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2015-12-14 10:56:53,683 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2015-12-14 10:56:53,683 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2015-12-14 10:56:53,683 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2015-12-14 10:56:53,683 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2015-12-14 10:56:53,683 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2015-12-14 10:56:53,683 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2015-12-14 10:56:53,699 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2015-12-14 10:56:53,714 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2015-12-14 10:56:53,730 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2015-12-14 10:56:53,730 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-12-14 10:56:53,730 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Set Splash message: Look
+2015-12-14 10:56:54,354 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib actuate 1.6.5
+2015-12-14 10:56:54,354 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d 1.11.0
+2015-12-14 10:56:54,354 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d-fake 1.11.0
+2015-12-14 10:56:54,354 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib console 1.0.0
+2015-12-14 10:56:54,354 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib format 3.1.2
+2015-12-14 10:56:54,354 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxcpp 3.2.0
+2015-12-14 10:56:54,354 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxtelemetry 0.3.1
+2015-12-14 10:56:54,354 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib layout 1.1.0
+2015-12-14 10:56:54,354 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib lime 2.6.8
+2015-12-14 10:56:54,370 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib openfl 3.3.8
+2015-12-14 10:56:54,370 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-ds 1.4.1
+2015-12-14 10:56:54,370 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-printf 1.0.0.beta
+2015-12-14 10:56:54,370 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl 1.0.0
+2015-12-14 10:56:54,370 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl-cppia 1.0.0
+2015-12-14 10:56:54,370 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib svg 1.0.8
+2015-12-14 10:56:54,370 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib swf 1.7.4
+2015-12-14 10:56:54,370 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib tilelayer 0.2.1
+2015-12-14 10:56:54,370 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\extensions: []
+2015-12-14 10:56:54,370 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\extensions: []
+2015-12-14 10:56:54,370 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Loading engine extensions...
+2015-12-14 10:56:54,370 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions: [C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\ads, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\gamecenter, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\gestures, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\google, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\hypertouch, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\joystick, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\label, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\native, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\purchases, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\test, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\test-flash, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\test-native, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\tileapi]
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: ads is a core engine extension. Skip.
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: gamecenter is a core engine extension. Skip.
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: gestures is a core engine extension. Skip.
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: google is not a valid engine extension. Skip.
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: hypertouch is a core engine extension. Skip.
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: joystick is a core engine extension. Skip.
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: label is engine extension: Labels (1.0.0).
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: native is a core engine extension. Skip.
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: purchases is a core engine extension. Skip.
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: test is engine extension: Test Extension (1.0.0).
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: test-flash is engine extension: Test Extension (Flash SWF) (1.0.0).
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: test-native is engine extension: Test Extension (Native) (1.0.0).
+2015-12-14 10:56:54,385 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: tileapi is engine extension: Tile API (1.0.0).
+2015-12-14 10:56:54,385 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Engine Extensions: [Labels (1.0.0), Test Extension (1.0.0), Test Extension (Flash SWF) (1.0.0), Test Extension (Native) (1.0.0), Tile API (1.0.0)]
+2015-12-14 10:56:54,385 WARN  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Couldn't load extension settings.
+2015-12-14 10:56:54,401 INFO  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Toolset Extensions: []
+2015-12-14 10:56:54,557 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-12-14 10:56:54,557 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-12-14 10:56:54,557 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Dispose Splash
+2015-12-14 10:56:54,666 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: guest
+2015-12-14 10:56:54,666 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Could not log in. Check your login credentials.
+2015-12-14 10:58:25,311 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: dragEnter event.
+2015-12-14 10:58:25,342 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border saved.
+2015-12-14 10:58:25,342 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drag border set.
+2015-12-14 10:58:25,342 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: event accepted.
+2015-12-14 10:58:25,373 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: dragExit event.
+2015-12-14 10:58:25,373 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border restored.
+2015-12-14 10:58:25,373 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: dragEnter event.
+2015-12-14 10:58:25,373 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border saved.
+2015-12-14 10:58:25,373 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drag border set.
+2015-12-14 10:58:25,373 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: event accepted.
+2015-12-14 10:58:26,918 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drop event.
+2015-12-14 10:58:26,918 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: file list accepted.
+2015-12-14 10:58:26,918 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drop complete.
+2015-12-14 10:58:26,918 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border restored.
+2015-12-14 11:00:52,054 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Local\Temp\stencyl3467812550929449502\sandbox\test\temp
+2015-12-14 11:00:52,054 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\preview\scripts
+2015-12-14 11:00:52,054 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\preview\game
+2015-12-14 11:00:52,070 INFO  [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Opening game: INVADERS
+2015-12-14 11:00:52,086 DEBUG [pool-1-thread-2] stencyl.core.lib.Game: Loading scene-specific snippet. SceneID: 0
+2015-12-14 11:00:52,101 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 2 : Bullets
+2015-12-14 11:00:52,101 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 3 : Bullets
+2015-12-14 11:00:52,101 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 4 : Enemy ships
+2015-12-14 11:00:52,101 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 5 : Enemy ships
+2015-12-14 11:00:52,101 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 8 : Explosion
+2015-12-14 11:00:52,101 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 7 : General Shooter Spacey Level
+2015-12-14 11:00:52,101 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 10 : Robbies Special Font Of Dankness
+2015-12-14 11:00:52,117 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 0 : Ship
+2015-12-14 11:00:52,117 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 1 : Ship
+2015-12-14 11:00:52,117 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 6 : stars
+2015-12-14 11:00:52,117 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 9 : stars2
+2015-12-14 11:00:52,132 DEBUG [pool-1-thread-2] stencyl.core.engine.sound.ISoundClip: Loading Sound 7
+2015-12-14 11:00:52,132 DEBUG [pool-1-thread-2] stencyl.core.engine.sound.ISoundClip: Loading Sound 8
+2015-12-14 11:00:52,231 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes\0.xml
+2015-12-14 11:00:52,231 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes\0.xml
+2015-12-14 11:00:52,309 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-12-14 11:00:52,309 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\rmills0865\AppData\Local\Temp\stencyl3467812550929449502\sandbox\build\code
+2015-12-14 11:00:52,309 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Local\Temp\stencyl3467812550929449502\sandbox\test\temp
+2015-12-14 11:00:52,309 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes\0.xml
+2015-12-14 11:00:52,340 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 270ms
+2015-12-14 11:00:52,387 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.attributes.AttributeTree: Loading attribute into tree: Health Points1
+2015-12-14 11:00:52,449 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-12-14 11:00:52,465 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-12-14 11:00:52,465 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-12-14 11:00:52,465 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-12-14 11:00:52,481 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-12-14 11:00:52,481 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Bullets
+2015-12-14 11:00:52,496 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Enemies
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Ship' to atlas 0
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Bullets' to atlas 0
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Enemy ships' to atlas 0
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'stars' to atlas 0
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'General Shooter Spacey Level' to atlas 0
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Explosion' to atlas 0
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'stars2' to atlas 0
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Robbies Special Font Of Dankness' to atlas 0
+2015-12-14 11:00:53,089 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-12-14 11:00:53,105 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-12-14 11:00:53,105 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-12-14 11:00:53,136 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes\0.xml
+2015-12-14 11:01:04,345 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Level One
+2015-12-14 11:01:04,345 DEBUG [pool-1-thread-2] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes\0.xml
+2015-12-14 11:01:04,438 DEBUG [pool-1-thread-2] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-12-14 11:01:04,641 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... init
+2015-12-14 11:01:04,641 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: init - false
+2015-12-14 11:01:04,688 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... event-group-create-kill
+2015-12-14 11:01:04,688 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: incdec - true
+2015-12-14 11:01:04,688 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: event-group-create-kill - false
+2015-12-14 11:01:04,688 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-12-14 11:01:04,688 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: eq - true
+2015-12-14 11:01:04,688 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-12-14 11:01:04,688 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: step - false
+2015-12-14 11:01:04,704 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... draw
+2015-12-14 11:01:04,704 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: draw-text - true
+2015-12-14 11:01:04,704 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: draw-text - true
+2015-12-14 11:01:04,704 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: draw-text - true
+2015-12-14 11:01:04,704 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-12-14 11:01:04,704 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: draw - false
+2015-12-14 11:01:04,969 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:05,031 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Conditions
+2015-12-14 11:01:05,234 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Actors
+2015-12-14 11:01:05,296 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Keyboard & Mouse
+2015-12-14 11:01:05,374 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-12-14 11:01:05,406 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Getters
+2015-12-14 11:01:05,515 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Sound
+2015-12-14 11:01:05,546 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Triggers
+2015-12-14 11:01:05,593 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Web
+2015-12-14 11:01:05,624 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Drawing
+2015-12-14 11:01:05,655 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Basic
+2015-12-14 11:01:05,671 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Custom
+2015-12-14 11:01:05,671 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Extensions
+2015-12-14 11:01:05,671 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:05,733 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-1, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:05,733 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:05,733 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-1, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:05,858 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Level One
+2015-12-14 11:01:05,874 DEBUG [pool-1-thread-2] stencyl.sw.app.tasks.OpenResourceTask: Open Took 1529ms
+2015-12-14 11:01:05,920 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 1575ms
+2015-12-14 11:01:18,229 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [c]com.stencyl.behavior.Script, [e]3-3]
+2015-12-14 11:01:18,229 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:18,229 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [c]com.stencyl.behavior.Script, [e]3-3]
+2015-12-14 11:01:18,322 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [c]com.stencyl.behavior.Script, [e]3-3]
+2015-12-14 11:01:18,322 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:20,584 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[e]3-2, [h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [h]eventActor:com.stencyl.models.Actor, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:20,584 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:20,584 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[e]3-2, [h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [h]eventActor:com.stencyl.models.Actor, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:20,709 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[e]3-2, [h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [h]eventActor:com.stencyl.models.Actor, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:20,709 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:21,692 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-4, [c]com.stencyl.behavior.Script, [h]g:com.stencyl.graphics.G]
+2015-12-14 11:01:21,692 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:21,692 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-4, [c]com.stencyl.behavior.Script, [h]g:com.stencyl.graphics.G]
+2015-12-14 11:01:21,801 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-4, [c]com.stencyl.behavior.Script, [h]g:com.stencyl.graphics.G]
+2015-12-14 11:01:21,801 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:23,548 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-1, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:23,548 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:23,548 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-1, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:23,595 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[e]3-2, [h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [h]eventActor:com.stencyl.models.Actor, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:23,595 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:23,595 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[e]3-2, [h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [h]eventActor:com.stencyl.models.Actor, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:23,658 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[e]3-2, [h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [h]eventActor:com.stencyl.models.Actor, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:23,658 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:24,313 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-1, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:24,313 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:01:24,313 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-1, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:24,391 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[h]engine:com.stencyl.Engine, [s]com.stencyl.behavior.Script, [b]3, [e]3-1, [c]com.stencyl.behavior.Script]
+2015-12-14 11:01:24,391 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-14 11:16:47,591 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-12-14 11:16:48,371 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Level One
+2015-12-14 11:16:49,603 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-12-14 11:16:52,474 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Level One
+2015-12-14 11:16:52,474 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-12-14 11:16:52,474 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: Level One0

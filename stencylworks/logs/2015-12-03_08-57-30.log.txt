@@ -1,0 +1,957 @@
+2015-12-03 08:57:30,941 INFO  [main] stencyl.sw.Session: Logfile: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\logs\2015-12-03_08-57-30.log
+2015-12-03 08:57:30,972 INFO  [main] stencyl.sw.Session: OS Name: Windows 7
+2015-12-03 08:57:30,972 INFO  [main] stencyl.sw.Session: OS Version: 6.1 (64-bit)
+2015-12-03 08:57:30,972 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_60
+2015-12-03 08:57:30,972 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.2 (b8734)
+2015-12-03 08:57:30,972 INFO  [main] stencyl.sw.Session: Stencyl Workspace: C:\Users\KCantrell5436\Documents\GitHub\OGPC\
+2015-12-03 08:57:30,972 INFO  [main] stencyl.sw.Session: User Working Directory: C:\Program Files (x86)\Stencyl
+2015-12-03 08:57:30,972 INFO  [main] stencyl.sw.Session: User Home Directory: C:\Users\KCantrell5436
+2015-12-03 08:57:30,972 INFO  [main] stencyl.sw.Session: System Path: C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\CCM;C:\WINDOWS\CCM;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Stencyl\runtimes\jre-win\bin
+2015-12-03 08:57:31,393 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCANTR~1\AppData\Local\Temp\stencyl8561500518571555756
+2015-12-03 08:57:31,393 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2015-12-03 08:57:31,409 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2015-12-03 08:57:31,425 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2015-12-03 08:57:31,456 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2015-12-03 08:57:31,471 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2015-12-03 08:57:31,503 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2015-12-03 08:57:31,503 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2015-12-03 08:57:31,518 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2015-12-03 08:57:31,534 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2015-12-03 08:57:31,549 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2015-12-03 08:57:31,565 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2015-12-03 08:57:31,581 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2015-12-03 08:57:31,596 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2015-12-03 08:57:31,612 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2015-12-03 08:57:31,659 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2015-12-03 08:57:31,705 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2015-12-03 08:57:31,737 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2015-12-03 08:57:31,737 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2015-12-03 08:57:31,752 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2015-12-03 08:57:31,783 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2015-12-03 08:57:31,783 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2015-12-03 08:57:31,783 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2015-12-03 08:57:31,799 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2015-12-03 08:57:31,815 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2015-12-03 08:57:31,830 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2015-12-03 08:57:31,846 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2015-12-03 08:57:31,846 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2015-12-03 08:57:31,861 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2015-12-03 08:57:31,877 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2015-12-03 08:57:31,877 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2015-12-03 08:57:31,908 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2015-12-03 08:57:31,924 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2015-12-03 08:57:31,924 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2015-12-03 08:57:31,924 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2015-12-03 08:57:31,955 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2015-12-03 08:57:31,971 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2015-12-03 08:57:31,986 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2015-12-03 08:57:32,002 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2015-12-03 08:57:32,017 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2015-12-03 08:57:32,017 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-12-03 08:57:32,095 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Set Splash message: Look
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib actuate 1.6.5
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d 1.11.0
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d-fake 1.11.0
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib console 1.0.0
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib format 3.1.2
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxcpp 3.2.0
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxtelemetry 0.3.1
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib layout 1.1.0
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib lime 2.6.8
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib openfl 3.3.8
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-ds 1.4.1
+2015-12-03 08:57:35,855 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-printf 1.0.0.beta
+2015-12-03 08:57:35,870 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl 1.0.0
+2015-12-03 08:57:35,870 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl-cppia 1.0.0
+2015-12-03 08:57:35,870 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib svg 1.0.8
+2015-12-03 08:57:35,870 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib swf 1.7.4
+2015-12-03 08:57:35,870 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib tilelayer 0.2.1
+2015-12-03 08:57:35,886 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\extensions: []
+2015-12-03 08:57:35,902 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\extensions: []
+2015-12-03 08:57:35,902 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Loading engine extensions...
+2015-12-03 08:57:35,902 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\engine-extensions: []
+2015-12-03 08:57:35,902 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Engine Extensions: []
+2015-12-03 08:57:35,902 WARN  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Couldn't load extension settings.
+2015-12-03 08:57:35,902 INFO  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Toolset Extensions: []
+2015-12-03 08:57:36,604 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-12-03 08:57:36,604 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-12-03 08:57:36,604 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Dispose Splash
+2015-12-03 08:57:37,056 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-12-03 08:57:37,056 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\prefs\auth.txt
+2015-12-03 08:57:37,072 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: wizardpajamas
+2015-12-03 08:57:37,072 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-12-03 08:57:37,259 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-12-03 08:58:06,539 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\AppData\Local\Temp\stencyl8561500518571555756Roosevelt OGPC.zip
+2015-12-03 08:58:06,555 ERROR [pool-1-thread-1] stencyl.sw.util.FileHelper: Failed to delete file or directory: C:\Users\KCantrell5436\AppData\Local\Temp\stencyl8561500518571555756Roosevelt OGPC.zip
+2015-12-03 08:58:07,132 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.ImportGameTask: Took 1388ms
+2015-12-03 08:58:10,938 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\OGPC
+2015-12-03 08:58:12,311 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\AppData\Local\Temp\stencyl8561500518571555756\sandbox\test\temp
+2015-12-03 08:58:12,311 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts
+2015-12-03 08:58:12,311 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\game
+2015-12-03 08:58:12,311 INFO  [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Opening game: Roosevelt OGPC
+2015-12-03 08:58:12,374 DEBUG [pool-1-thread-1] stencyl.core.lib.Game: Loading scene-specific snippet. SceneID: 0
+2015-12-03 08:58:12,389 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 0 : player 1
+2015-12-03 08:58:12,405 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 1 : player 1
+2015-12-03 08:58:12,701 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 08:58:12,748 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 08:58:12,857 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-12-03 08:58:12,857 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\AppData\Local\Temp\stencyl8561500518571555756\sandbox\build\code
+2015-12-03 08:58:12,873 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\AppData\Local\Temp\stencyl8561500518571555756\sandbox\test\temp
+2015-12-03 08:58:12,873 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 08:58:12,951 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 640ms
+2015-12-03 08:58:13,200 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-12-03 08:58:13,247 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-12-03 08:58:13,247 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-12-03 08:58:13,263 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-12-03 08:58:13,263 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-12-03 08:58:14,563 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-12-03 08:58:14,563 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'player 1' to atlas 0
+2015-12-03 08:58:14,609 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-12-03 08:58:14,609 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-12-03 08:58:14,609 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-12-03 08:58:14,687 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 08:58:34,462 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: bedroom
+2015-12-03 08:58:34,462 DEBUG [pool-1-thread-1] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 08:58:34,961 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-12-03 08:58:36,006 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 08:58:36,116 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Conditions
+2015-12-03 08:58:36,334 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Actors
+2015-12-03 08:58:36,396 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Keyboard & Mouse
+2015-12-03 08:58:36,459 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-12-03 08:58:36,521 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Getters
+2015-12-03 08:58:36,630 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Sound
+2015-12-03 08:58:36,662 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Triggers
+2015-12-03 08:58:36,693 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Web
+2015-12-03 08:58:36,740 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Drawing
+2015-12-03 08:58:36,771 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Basic
+2015-12-03 08:58:36,771 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Custom
+2015-12-03 08:58:36,786 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Extensions
+2015-12-03 08:58:36,786 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 08:58:36,896 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: []
+2015-12-03 08:58:36,896 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 08:58:37,052 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: bedroom
+2015-12-03 08:58:37,052 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.OpenResourceTask: Open Took 2590ms
+2015-12-03 08:58:37,176 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 2714ms
+2015-12-03 08:58:40,281 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Test Game...
+2015-12-03 08:58:40,343 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-12-03 08:58:40,359 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak.
+2015-12-03 08:58:42,028 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-12-03 08:58:42,043 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak.
+2015-12-03 08:58:42,059 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-12-03 08:58:42,059 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-12-03 08:58:42,059 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.png
+2015-12-03 08:58:42,075 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-12-03 08:58:42,090 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Num Tiles: 0
+2015-12-03 08:58:42,090 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Coverage: 0.0%
+2015-12-03 08:58:42,090 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Segments: (1,1)
+2015-12-03 08:58:42,090 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Using Pairwise
+2015-12-03 08:58:42,090 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Combine took: 0ms
+2015-12-03 08:58:42,090 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-12-03 08:58:42,090 DEBUG [pool-1-thread-1] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 08:58:42,106 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene bedroom
+2015-12-03 08:58:42,106 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-12-03 08:58:42,106 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml.bak.
+2015-12-03 08:58:42,121 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-12-03 08:58:42,121 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\SceneEvents_0.hx
+2015-12-03 08:58:42,121 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design
+2015-12-03 08:58:42,137 DEBUG [pool-3-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\SceneEvents_0.hx. Took 16 ms.
+2015-12-03 08:58:42,137 DEBUG [pool-3-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\ActorEvents_0.hx. Took 16 ms.
+2015-12-03 08:58:42,137 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-12-03 08:58:42,137 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-12-03 08:58:42,199 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-12-03 08:58:42,215 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak.
+2015-12-03 08:58:43,697 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-12-03 08:58:43,697 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak.
+2015-12-03 08:58:43,697 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-12-03 08:58:43,697 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-12-03 08:58:43,697 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.png
+2015-12-03 08:58:43,713 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-12-03 08:58:43,713 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Num Tiles: 0
+2015-12-03 08:58:43,713 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Coverage: 0.0%
+2015-12-03 08:58:43,713 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Segments: (1,1)
+2015-12-03 08:58:43,713 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Using Pairwise
+2015-12-03 08:58:43,713 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Combine took: 0ms
+2015-12-03 08:58:43,713 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-12-03 08:58:43,728 DEBUG [pool-1-thread-1] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 08:58:43,728 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene bedroom
+2015-12-03 08:58:43,728 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-12-03 08:58:43,728 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml.bak.
+2015-12-03 08:58:43,744 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-12-03 08:58:43,744 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\SceneEvents_0.hx
+2015-12-03 08:58:43,744 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design
+2015-12-03 08:58:43,744 DEBUG [pool-4-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\SceneEvents_0.hx. Took 0 ms.
+2015-12-03 08:58:43,744 DEBUG [pool-4-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\ActorEvents_0.hx. Took 0 ms.
+2015-12-03 08:58:43,744 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-12-03 08:58:43,759 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-12-03 08:58:43,806 INFO  [AWT-EventQueue-0] stencyl.sw.io.write.resource.HXWriter: Building game with arguments: FLASH, TESTING
+2015-12-03 08:58:43,806 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, neko.exe, /f]
+2015-12-03 08:58:43,884 DEBUG [Thread-8] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "neko.exe" not found.
+2015-12-03 08:58:43,900 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 08:58:43,900 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, adb.exe, /f]
+2015-12-03 08:58:43,947 DEBUG [Thread-9] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "adb.exe" not found.
+2015-12-03 08:58:43,947 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 08:58:43,947 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, arm-linux-androideabi-g++.exe, /f]
+2015-12-03 08:58:44,009 DEBUG [Thread-10] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "arm-linux-androideabi-g++.exe" not found.
+2015-12-03 08:58:44,009 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 08:58:44,009 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, cc1plus.exe, /f]
+2015-12-03 08:58:44,056 DEBUG [Thread-11] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "cc1plus.exe" not found.
+2015-12-03 08:58:44,071 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 08:58:44,071 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, tail.exe, /f]
+2015-12-03 08:58:44,118 DEBUG [Thread-12] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "tail.exe" not found.
+2015-12-03 08:58:44,118 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 08:58:44,118 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, ios-sim.exe, /f]
+2015-12-03 08:58:44,181 DEBUG [Thread-13] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "ios-sim.exe" not found.
+2015-12-03 08:58:44,181 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 08:58:44,196 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\AppData\Roaming\Macromedia\Flash Player\Logs\flashlog.txt
+2015-12-03 08:58:44,227 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Assets\graphics
+2015-12-03 08:58:44,243 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Export\iPhone\build
+2015-12-03 08:58:44,243 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Export\cpp\windows\bin
+2015-12-03 08:58:44,461 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.HXWriter: Skipping... player 1
+2015-12-03 08:58:44,461 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-12-03 08:58:44,461 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-12-03 08:58:44,461 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-12-03 08:58:44,461 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-12-03 08:58:44,461 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Assets\graphics\3x
+2015-12-03 08:58:44,477 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak.
+2015-12-03 08:58:46,021 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.HXWriter: Skipping... player 1
+2015-12-03 08:58:46,037 DEBUG [pool-5-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\SceneEvents_0.hx. Took 0 ms.
+2015-12-03 08:58:46,037 DEBUG [pool-5-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\ActorEvents_0.hx. Took 0 ms.
+2015-12-03 08:58:46,084 DEBUG [pool-1-thread-2] stencyl.sw.util.Util: Running command: [C:\Program Files (x86)\Stencyl\plaf\haxe\haxelib.exe, run, openfl, -verbose, build, -debug, project.xml, flash]
+2015-12-03 08:58:46,708 INFO  [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe] OpenFL Command-Line Tools (3.3.8-LPNIQF)
+2015-12-03 08:58:46,708 INFO  [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe] Initializing project...
+2015-12-03 08:58:46,708 INFO  [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe] Using project file: project.xml
+2015-12-03 08:58:46,708 INFO  [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe] Reading HXCPP config: C:\Users\KCantrell5436\.hxcpp_config.xml
+2015-12-03 08:58:46,989 INFO  [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe] Using target platform: FLASH
+2015-12-03 08:58:46,989 INFO  [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe] Running command: UPDATE
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Creating directory: Export/flash
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Creating directory: Export/flash/bin
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-0.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-0.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-0.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-0.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Creating directory: Export/flash/obj
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-0.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-0.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-0.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-0.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-12-03 08:58:46,989 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-12-03 08:58:47,254 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Creating directory: Export/flash/haxe
+2015-12-03 08:58:47,254 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-12-03 08:58:47,269 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/haxe/DefaultAssetLibrary.hx -> Export/flash/haxe/DefaultAssetLibrary.hx
+2015-12-03 08:58:47,301 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-12-03 08:58:47,332 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/haxe/NMEPreloader.hx -> Export/flash/haxe/NMEPreloader.hx
+2015-12-03 08:58:47,347 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-12-03 08:58:47,363 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-12-03 08:58:47,379 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-12-03 08:58:47,379 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-12-03 08:58:47,379 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-12-03 08:58:47,379 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-12-03 08:58:47,379 INFO  [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe] Running command: BUILD
+2015-12-03 08:58:47,379 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Running command: haxe -main ApplicationMain -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/openfl/openfl" -D openfl=3.3.8 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/lime/lime" -D lime=2.6.8 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/actuate/1,6,5" -D actuate=1.6.5 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/console/1,00" -D console=0.0.0 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/polygonal-ds/1,4,1" -D polygonal-ds=1.4.1 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/polygonal-printf/1,0,0-beta" -D polygonal-printf=1.0.0-beta -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/box2d/1,11" -D box2d=0.0.0 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/stencyl/1,00" -D stencyl=0.0.0 -cp Source -cp "C:\Program Files (x86)\Stencyl\plaf\haxe\extensions/gestures" -D native-trace -D openfl-next -D tools=2.6.8 -D flash-use-stage -D no-compilation -D openfl-flash -D verbose=1 -D web --remap nme:openfl -D network-sandbox -D as3_native -D swf-directblit -swf-lib newgrounds.swf -swf-lib cpmstar.swf -resource Assets/graphics/preloader-bg.png@preloader-bg -resource Assets/graphics/preloader-badge.png@preloader-badge -swf-lib Export/flash/obj/assets.swf -swf-version 11 -swf "Export/flash/bin/Roosevelt OGPC.swf" -cp Export/flash/haxe -debug
+2015-12-03 08:58:57,052 DEBUG [pool-1-thread-2] stencyl.sw.util.Util: Process 'haxelib.exe' exited with code: 0
+2015-12-03 08:58:57,052 INFO  [pool-1-thread-2] stencyl.sw.io.write.resource.HXWriter: Finished: Building for Flash.
+2015-12-03 08:58:57,052 DEBUG [pool-1-thread-2] stencyl.sw.util.Util: Running command: [C:\Program Files (x86)\Stencyl\ext-tools\players\flash-10-win, C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Export\flash\bin\Roosevelt OGPC.swf]
+2015-12-03 08:58:57,529 INFO  [pool-1-thread-1] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(194): Stage Width: 640
+2015-12-03 08:58:57,529 INFO  [pool-1-thread-1] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(195): Stage Height: 480
+2015-12-03 08:58:57,529 INFO  [pool-1-thread-1] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(196): Screen Width: 640
+2015-12-03 08:58:57,529 INFO  [pool-1-thread-1] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(197): Screen Height: 480
+2015-12-03 08:58:57,529 INFO  [pool-1-thread-1] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(198): Screen DPI: 72
+2015-12-03 08:58:57,529 INFO  [pool-1-thread-1] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(377): Max Scale: 4
+2015-12-03 08:58:57,529 INFO  [pool-1-thread-1] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(378): Engine Scale: 1x
+2015-12-03 08:58:57,529 INFO  [pool-1-thread-1] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(732): Scale X: 1
+2015-12-03 08:58:57,529 INFO  [pool-1-thread-1] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(733): Scale Y: 1
+2015-12-03 08:59:24,644 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-12-03 08:59:58,292 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: player 1
+2015-12-03 08:59:58,573 DEBUG [pool-1-thread-3] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 0, 0 ]
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-dxy - true
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-dxy - true
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else-if - false
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-dxy - true
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-dxy - true
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-dxy - true
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else-if - false
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-dxy - true
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-12-03 08:59:58,636 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: step - false
+2015-12-03 08:59:58,807 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 08:59:58,854 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Conditions
+2015-12-03 08:59:59,026 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Actors
+2015-12-03 08:59:59,077 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Keyboard & Mouse
+2015-12-03 08:59:59,124 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-12-03 08:59:59,155 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Getters
+2015-12-03 08:59:59,280 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Sound
+2015-12-03 08:59:59,311 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Triggers
+2015-12-03 08:59:59,343 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Web
+2015-12-03 08:59:59,389 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Drawing
+2015-12-03 08:59:59,421 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Basic
+2015-12-03 08:59:59,421 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Custom
+2015-12-03 08:59:59,421 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Extensions
+2015-12-03 08:59:59,421 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 08:59:59,436 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[c]com.stencyl.behavior.Script, [s]com.stencyl.behavior.Script, [e]1-1, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 08:59:59,436 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 08:59:59,436 DEBUG [pool-1-thread-3] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [s]com.stencyl.behavior.Script, [e]1-1, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 08:59:59,545 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: player 1
+2015-12-03 08:59:59,545 DEBUG [pool-1-thread-3] stencyl.sw.app.tasks.OpenResourceTask: Open Took 1253ms
+2015-12-03 08:59:59,592 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 1300ms
+2015-12-03 09:00:03,653 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[c]com.stencyl.behavior.Script, [s]com.stencyl.behavior.Script, [e]1-1, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:00:03,653 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 09:00:03,653 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[c]com.stencyl.behavior.Script, [e]1-2, [s]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:00:03,653 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 09:00:03,653 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [e]1-2, [s]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:00:04,885 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Conditions
+2015-12-03 09:00:04,885 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [e]1-2, [s]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:00:04,901 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Conditions
+2015-12-03 09:00:27,336 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: less
+2015-12-03 09:00:27,336 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Group: refreshPositions(): This group lacks a parent: 1 (Ignore)
+2015-12-03 09:00:30,071 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: more
+2015-12-03 09:00:30,071 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Group: refreshPositions(): This group lacks a parent: 2 (Ignore)
+2015-12-03 09:00:39,378 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 09:00:39,394 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 09:00:42,774 INFO  [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.BlockSceneObjectChooser: Set to this actor
+2015-12-03 09:00:49,326 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: get-xy
+2015-12-03 09:00:49,326 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Group: refreshPositions(): This group lacks a parent: 3 (Ignore)
+2015-12-03 09:00:54,162 INFO  [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.BlockSceneObjectChooser: Set to this actor
+2015-12-03 09:00:54,162 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: get-xy
+2015-12-03 09:00:54,177 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Group: refreshPositions(): This group lacks a parent: 4 (Ignore)
+2015-12-03 09:01:04,146 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-12-03 09:01:04,146 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [e]1-2, [s]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:01:04,193 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-12-03 09:01:08,209 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Actors
+2015-12-03 09:01:08,209 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [e]1-2, [s]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:01:08,240 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Actors
+2015-12-03 09:01:12,905 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Regions
+2015-12-03 09:01:12,905 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [e]1-2, [s]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:01:12,951 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Regions
+2015-12-03 09:01:19,947 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: View
+2015-12-03 09:01:19,947 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [e]1-2, [s]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:01:20,025 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: View
+2015-12-03 09:01:24,409 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: screen-wh
+2015-12-03 09:01:24,409 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Group: refreshPositions(): This group lacks a parent: 6 (Ignore)
+2015-12-03 09:01:27,599 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 09:01:27,614 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 09:01:32,351 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Motion
+2015-12-03 09:01:32,351 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [e]1-2, [s]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:01:32,398 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Motion
+2015-12-03 09:01:33,303 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Properties
+2015-12-03 09:01:33,303 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [e]1-2, [s]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:01:33,350 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Properties
+2015-12-03 09:01:37,218 INFO  [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.BlockSceneObjectChooser: Set to this actor
+2015-12-03 09:01:37,218 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: get-wh
+2015-12-03 09:01:37,218 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Group: refreshPositions(): This group lacks a parent: 7 (Ignore)
+2015-12-03 09:01:49,791 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: minus
+2015-12-03 09:01:49,791 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Group: refreshPositions(): This group lacks a parent: 5 (Ignore)
+2015-12-03 09:02:04,580 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 09:02:04,580 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-12-03 09:02:08,215 INFO  [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.BlockSceneObjectChooser: Set to this actor
+2015-12-03 09:02:11,943 INFO  [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.BlockSceneObjectChooser: Set to this actor
+2015-12-03 09:02:54,201 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Block: SnippetID: -1
+2015-12-03 09:02:54,201 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Block: Edit Area ID: 1
+2015-12-03 09:02:54,201 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Block: SnippetID: -1
+2015-12-03 09:02:54,201 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Block: Edit Area ID: 1
+2015-12-03 09:02:59,697 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-12-03 09:02:59,697 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-12-03 09:03:08,814 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: minus
+2015-12-03 09:03:31,372 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: minus
+2015-12-03 09:03:31,372 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.block.Group: refreshPositions(): This group lacks a parent: 8 (Ignore)
+2015-12-03 09:03:36,454 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Test Game...
+2015-12-03 09:03:36,470 INFO  [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-12-03 09:03:36,470 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak.
+2015-12-03 09:03:38,123 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak.
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,139 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,248 DEBUG [pool-1-thread-4] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 09:03:38,248 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-12-03 09:03:38,264 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-12-03 09:03:38,264 DEBUG [pool-1-thread-4] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.png
+2015-12-03 09:03:38,279 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-12-03 09:03:38,279 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Num Tiles: 0
+2015-12-03 09:03:38,279 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Coverage: 0.0%
+2015-12-03 09:03:38,279 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Segments: (1,1)
+2015-12-03 09:03:38,279 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Using Pairwise
+2015-12-03 09:03:38,279 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Combine took: 0ms
+2015-12-03 09:03:38,279 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-12-03 09:03:38,279 DEBUG [pool-1-thread-4] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene bedroom
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml.bak.
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,295 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:03:38,310 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,310 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:03:38,310 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,310 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,310 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,310 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,310 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,310 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,310 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\SceneEvents_0.hx
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,388 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:38,404 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\ActorEvents_0.hx
+2015-12-03 09:03:38,404 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\ActorEvents_0.design
+2015-12-03 09:03:38,404 DEBUG [pool-6-thread-2] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-12-03 09:03:38,404 DEBUG [pool-6-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-xy - true
+2015-12-03 09:03:38,404 DEBUG [pool-6-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: less - true
+2015-12-03 09:03:38,404 DEBUG [pool-6-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-12-03 09:03:38,404 DEBUG [pool-6-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: minus - true
+2015-12-03 09:03:38,404 DEBUG [pool-6-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else-if - false
+2015-12-03 09:03:38,404 DEBUG [pool-6-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: step - false
+2015-12-03 09:03:38,404 DEBUG [pool-6-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\SceneEvents_0.hx. Took 0 ms.
+2015-12-03 09:03:38,420 DEBUG [pool-6-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\ActorEvents_0.hx. Took 16 ms.
+2015-12-03 09:03:38,420 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-12-03 09:03:38,420 INFO  [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-12-03 09:03:38,466 INFO  [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-12-03 09:03:38,466 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak.
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak.
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:39,933 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,026 DEBUG [pool-1-thread-4] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 09:03:40,042 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-12-03 09:03:40,042 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-12-03 09:03:40,042 DEBUG [pool-1-thread-4] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.png
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Num Tiles: 0
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Coverage: 0.0%
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Segments: (1,1)
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Using Pairwise
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.thirdparty.org.phys2d.Combiner: Combine took: 0ms
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene bedroom
+2015-12-03 09:03:40,058 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml.bak.
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,073 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,167 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-12-03 09:03:40,167 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\SceneEvents_0.hx
+2015-12-03 09:03:40,167 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\ActorEvents_0.hx
+2015-12-03 09:03:40,182 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\ActorEvents_0.design
+2015-12-03 09:03:40,182 DEBUG [pool-7-thread-2] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-12-03 09:03:40,182 DEBUG [pool-7-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-xy - true
+2015-12-03 09:03:40,182 DEBUG [pool-7-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: less - true
+2015-12-03 09:03:40,182 DEBUG [pool-7-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-12-03 09:03:40,182 DEBUG [pool-7-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: minus - true
+2015-12-03 09:03:40,182 DEBUG [pool-7-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else-if - false
+2015-12-03 09:03:40,182 DEBUG [pool-7-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: step - false
+2015-12-03 09:03:40,182 DEBUG [pool-7-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\SceneEvents_0.hx. Took 0 ms.
+2015-12-03 09:03:40,198 DEBUG [pool-7-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\ActorEvents_0.hx. Took 16 ms.
+2015-12-03 09:03:40,198 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-12-03 09:03:40,198 INFO  [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-12-03 09:03:40,245 INFO  [AWT-EventQueue-0] stencyl.sw.io.write.resource.HXWriter: Building game with arguments: FLASH, TESTING
+2015-12-03 09:03:40,245 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, neko.exe, /f]
+2015-12-03 09:03:40,307 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "neko.exe" not found.
+2015-12-03 09:03:40,307 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 09:03:40,307 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, adb.exe, /f]
+2015-12-03 09:03:40,370 DEBUG [Thread-17] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "adb.exe" not found.
+2015-12-03 09:03:40,370 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 09:03:40,370 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, arm-linux-androideabi-g++.exe, /f]
+2015-12-03 09:03:40,416 DEBUG [Thread-18] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "arm-linux-androideabi-g++.exe" not found.
+2015-12-03 09:03:40,416 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 09:03:40,432 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, cc1plus.exe, /f]
+2015-12-03 09:03:40,479 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "cc1plus.exe" not found.
+2015-12-03 09:03:40,479 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 09:03:40,479 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, tail.exe, /f]
+2015-12-03 09:03:40,541 DEBUG [Thread-20] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "tail.exe" not found.
+2015-12-03 09:03:40,541 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 09:03:40,541 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [taskkill, /im, ios-sim.exe, /f]
+2015-12-03 09:03:40,604 DEBUG [Thread-21] stencyl.sw.util.StreamGobbler: [taskkill] ERROR: The process "ios-sim.exe" not found.
+2015-12-03 09:03:40,619 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'taskkill' exited with code: 128
+2015-12-03 09:03:40,682 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\AppData\Roaming\Macromedia\Flash Player\Logs\flashlog.txt
+2015-12-03 09:03:40,682 ERROR [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to delete file or directory: C:\Users\KCantrell5436\AppData\Roaming\Macromedia\Flash Player\Logs\flashlog.txt
+2015-12-03 09:03:40,682 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Assets\graphics
+2015-12-03 09:03:40,697 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Export\iPhone\build
+2015-12-03 09:03:40,697 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Export\cpp\windows\bin
+2015-12-03 09:03:40,713 DEBUG [pool-1-thread-1] stencyl.sw.app.filewatcher.TailTask: Closed tail.
+2015-12-03 09:03:40,728 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.HXWriter: Skipping... player 1
+2015-12-03 09:03:40,728 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-12-03 09:03:40,728 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-12-03 09:03:40,744 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-12-03 09:03:40,744 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-12-03 09:03:40,744 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Assets\graphics\3x
+2015-12-03 09:03:40,760 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak.
+2015-12-03 09:03:42,226 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.HXWriter: Skipping... player 1
+2015-12-03 09:03:42,242 DEBUG [pool-8-thread-2] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-12-03 09:03:42,242 DEBUG [pool-8-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-xy - true
+2015-12-03 09:03:42,242 DEBUG [pool-8-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: less - true
+2015-12-03 09:03:42,242 DEBUG [pool-8-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-12-03 09:03:42,242 DEBUG [pool-8-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: minus - true
+2015-12-03 09:03:42,242 DEBUG [pool-8-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else-if - false
+2015-12-03 09:03:42,242 DEBUG [pool-8-thread-2] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: step - false
+2015-12-03 09:03:42,242 DEBUG [pool-8-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\SceneEvents_0.hx. Took 0 ms.
+2015-12-03 09:03:42,242 DEBUG [pool-8-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\preview\scripts\ActorEvents_0.hx. Took 0 ms.
+2015-12-03 09:03:42,288 DEBUG [pool-1-thread-5] stencyl.sw.util.Util: Running command: [C:\Program Files (x86)\Stencyl\plaf\haxe\haxelib.exe, run, openfl, -verbose, build, -debug, project.xml, flash]
+2015-12-03 09:03:42,663 INFO  [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe] OpenFL Command-Line Tools (3.3.8-LPNIQF)
+2015-12-03 09:03:42,663 INFO  [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe] Initializing project...
+2015-12-03 09:03:42,663 INFO  [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe] Using project file: project.xml
+2015-12-03 09:03:42,663 INFO  [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe] Reading HXCPP config: C:\Users\KCantrell5436\.hxcpp_config.xml
+2015-12-03 09:03:42,850 INFO  [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe] Using target platform: FLASH
+2015-12-03 09:03:42,850 INFO  [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe] Running command: UPDATE
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-0.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-0.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-0.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-0.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-0.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-0.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-0.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-0.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-12-03 09:03:42,850 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-12-03 09:03:43,131 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-12-03 09:03:43,131 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/haxe/DefaultAssetLibrary.hx -> Export/flash/haxe/DefaultAssetLibrary.hx
+2015-12-03 09:03:43,146 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-12-03 09:03:43,146 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/haxe/NMEPreloader.hx -> Export/flash/haxe/NMEPreloader.hx
+2015-12-03 09:03:43,146 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-12-03 09:03:43,146 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-12-03 09:03:43,146 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/lime/lime/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-12-03 09:03:43,146 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-12-03 09:03:43,146 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-12-03 09:03:43,146 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Copying template file: C:\Program Files (x86)\Stencyl\plaf\haxe\lib/openfl/openfl/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-12-03 09:03:43,146 INFO  [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe] Running command: BUILD
+2015-12-03 09:03:43,146 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [haxelib.exe]  - Running command: haxe -main ApplicationMain -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/openfl/openfl" -D openfl=3.3.8 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/lime/lime" -D lime=2.6.8 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/actuate/1,6,5" -D actuate=1.6.5 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/console/1,00" -D console=0.0.0 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/polygonal-ds/1,4,1" -D polygonal-ds=1.4.1 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/polygonal-printf/1,0,0-beta" -D polygonal-printf=1.0.0-beta -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/box2d/1,11" -D box2d=0.0.0 -cp "C:/Program Files (x86)/Stencyl/plaf/haxe/lib/stencyl/1,00" -D stencyl=0.0.0 -cp Source -cp "C:\Program Files (x86)\Stencyl\plaf\haxe\extensions/gestures" -D native-trace -D openfl-next -D tools=2.6.8 -D flash-use-stage -D no-compilation -D openfl-flash -D verbose=1 -D web --remap nme:openfl -D network-sandbox -D as3_native -D swf-directblit -swf-lib newgrounds.swf -swf-lib cpmstar.swf -resource Assets/graphics/preloader-bg.png@preloader-bg -resource Assets/graphics/preloader-badge.png@preloader-badge -swf-lib Export/flash/obj/assets.swf -swf-version 11 -swf "Export/flash/bin/Roosevelt OGPC.swf" -cp Export/flash/haxe -debug
+2015-12-03 09:03:46,336 DEBUG [pool-1-thread-5] stencyl.sw.util.Util: Process 'haxelib.exe' exited with code: 0
+2015-12-03 09:03:46,336 INFO  [pool-1-thread-5] stencyl.sw.io.write.resource.HXWriter: Finished: Building for Flash.
+2015-12-03 09:03:46,336 DEBUG [pool-1-thread-5] stencyl.sw.util.Util: Running command: [C:\Program Files (x86)\Stencyl\ext-tools\players\flash-10-win, C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games-generated\Roosevelt OGPC\Export\flash\bin\Roosevelt OGPC.swf]
+2015-12-03 09:03:46,828 INFO  [pool-1-thread-4] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(194): Stage Width: 640
+2015-12-03 09:03:46,828 INFO  [pool-1-thread-4] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(195): Stage Height: 480
+2015-12-03 09:03:46,828 INFO  [pool-1-thread-4] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(196): Screen Width: 640
+2015-12-03 09:03:46,828 INFO  [pool-1-thread-4] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(197): Screen Height: 480
+2015-12-03 09:03:46,828 INFO  [pool-1-thread-4] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(198): Screen DPI: 72
+2015-12-03 09:03:46,828 INFO  [pool-1-thread-4] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(377): Max Scale: 4
+2015-12-03 09:03:46,828 INFO  [pool-1-thread-4] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(378): Engine Scale: 1x
+2015-12-03 09:03:46,828 INFO  [pool-1-thread-4] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(732): Scale X: 1
+2015-12-03 09:03:46,828 INFO  [pool-1-thread-4] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(733): Scale Y: 1
+2015-12-03 09:04:24,069 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[c]com.stencyl.behavior.Script, [s]com.stencyl.behavior.Script, [e]1-1, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:04:24,069 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-12-03 09:04:24,069 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[c]com.stencyl.behavior.Script, [s]com.stencyl.behavior.Script, [e]1-1, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:04:24,147 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[c]com.stencyl.behavior.Script, [s]com.stencyl.behavior.Script, [e]1-1, [h]engine:com.stencyl.Engine, [b]1]
+2015-12-03 09:04:24,147 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-12-03 09:04:40,389 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-12-03 09:04:40,389 INFO  [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-12-03 09:04:40,405 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak.
+2015-12-03 09:04:41,871 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-12-03 09:04:41,871 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak.
+2015-12-03 09:04:41,871 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,871 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:04:41,871 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,871 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:04:41,871 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,871 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,871 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:04:41,887 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,887 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:04:41,887 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,887 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,887 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,887 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,887 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,887 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:41,887 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,011 DEBUG [pool-1-thread-5] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 09:04:42,027 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-12-03 09:04:42,027 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-12-03 09:04:42,027 DEBUG [pool-1-thread-5] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.png
+2015-12-03 09:04:42,043 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-12-03 09:04:42,043 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Num Tiles: 0
+2015-12-03 09:04:42,043 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Coverage: 0.0%
+2015-12-03 09:04:42,043 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Segments: (1,1)
+2015-12-03 09:04:42,043 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Using Pairwise
+2015-12-03 09:04:42,043 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Combine took: 0ms
+2015-12-03 09:04:42,043 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-12-03 09:04:42,058 DEBUG [pool-1-thread-5] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 09:04:42,058 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene bedroom
+2015-12-03 09:04:42,058 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-12-03 09:04:42,058 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml.bak.
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,074 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,230 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-12-03 09:04:42,230 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\SceneEvents_0.hx
+2015-12-03 09:04:42,230 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\ActorEvents_0.hx
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\ActorEvents_0.design
+2015-12-03 09:04:42,245 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-12-03 09:04:42,261 INFO  [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-12-03 09:04:47,518 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Close Game
+2015-12-03 09:04:49,031 INFO  [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-12-03 09:04:49,047 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak.
+2015-12-03 09:04:50,513 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak.
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,529 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,623 DEBUG [pool-1-thread-5] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 09:04:50,623 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-12-03 09:04:50,623 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-12-03 09:04:50,638 DEBUG [pool-1-thread-5] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.png
+2015-12-03 09:04:50,638 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-12-03 09:04:50,638 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Num Tiles: 0
+2015-12-03 09:04:50,638 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Coverage: 0.0%
+2015-12-03 09:04:50,638 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Segments: (1,1)
+2015-12-03 09:04:50,638 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Using Pairwise
+2015-12-03 09:04:50,638 DEBUG [pool-1-thread-5] stencyl.thirdparty.org.phys2d.Combiner: Combine took: 0ms
+2015-12-03 09:04:50,638 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (bedroom) from: scenes\0.xml
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene bedroom
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml.bak.
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:04:50,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,669 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:04:50,669 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,669 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,669 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,669 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,669 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,669 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,669 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,747 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-12-03 09:04:50,747 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\SceneEvents_0.hx
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 3
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 2
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 0
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out generic element ID: 1
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.block.Block: Write out thisActor
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\ActorEvents_0.hx
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\ActorEvents_0.design
+2015-12-03 09:04:50,763 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-12-03 09:04:50,763 INFO  [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-12-03 09:04:50,810 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Resetting workspace.
+2015-12-03 09:04:50,810 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: bedroom0
+2015-12-03 09:04:50,841 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-12-03 09:04:50,841 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: player 10
+2015-12-03 09:04:50,872 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-12-03 09:05:07,956 DEBUG [AWT-EventQueue-0] stencyl.sw.SW: Frame was maximized
+2015-12-03 09:05:13,978 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Log Viewer
+2015-12-03 09:05:25,849 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Extensions Manager
+2015-12-03 09:05:32,832 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Preferences...
+2015-12-03 09:05:33,004 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\lang. It does not exist or is not a directory.
+2015-12-03 09:05:33,020 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within lang: [lang\br, lang\de, lang\el, lang\en, lang\es, lang\fi, lang\fr, lang\it, lang\nl, lang\pl, lang\pt, lang\ru, lang\zh, lang\zh_CN]
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Breton in lang\br
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found German in lang\de
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Greek in lang\el
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found English in lang\en
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Spanish in lang\es
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Finnish in lang\fi
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found French in lang\fr
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Italian in lang\it
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Dutch in lang\nl
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Polish in lang\pl
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Portuguese in lang\pt
+2015-12-03 09:05:33,066 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Russian in lang\ru
+2015-12-03 09:05:33,082 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese in lang\zh
+2015-12-03 09:05:33,082 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese (China) in lang\zh_CN
+2015-12-03 09:05:40,653 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.GeneralPage: Choose Folder...
+2015-12-03 09:06:06,620 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\temp
+2015-12-03 09:06:14,176 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is: C:\Users\KCantrell5436\Documents\GitHub\OGPC\
+2015-12-03 09:06:14,176 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is being set to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\
+2015-12-03 09:06:14,191 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\prefs to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\prefs
+2015-12-03 09:06:14,191 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\prefs\auth.txt to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\prefs\auth.txt
+2015-12-03 09:06:14,191 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\prefs\boot.txt to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\prefs\boot.txt
+2015-12-03 09:06:14,191 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\prefs\designmode2.layout to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\prefs\designmode2.layout
+2015-12-03 09:06:14,191 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\prefs\favorites.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\prefs\favorites.xml
+2015-12-03 09:06:14,207 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\prefs\picker-favorites.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\prefs\picker-favorites.xml
+2015-12-03 09:06:14,207 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\prefs\scenedesigner.layout to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\prefs\scenedesigner.layout
+2015-12-03 09:06:14,207 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games
+2015-12-03 09:06:14,207 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC
+2015-12-03 09:06:14,207 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx
+2015-12-03 09:06:14,207 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\favorites.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\favorites.xml
+2015-12-03 09:06:14,223 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\game.xml
+2015-12-03 09:06:14,223 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak
+2015-12-03 09:06:14,223 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-120.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-120.png
+2015-12-03 09:06:14,238 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-128.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-128.png
+2015-12-03 09:06:14,238 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-152.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-152.png
+2015-12-03 09:06:14,238 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-16.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-16.png
+2015-12-03 09:06:14,238 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-24.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-24.png
+2015-12-03 09:06:14,238 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-256.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-256.png
+2015-12-03 09:06:14,238 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-32.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-32.png
+2015-12-03 09:06:14,238 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-48.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-48.png
+2015-12-03 09:06:14,254 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-512.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-512.png
+2015-12-03 09:06:14,254 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-76.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-76.png
+2015-12-03 09:06:14,254 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\Icon-96.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\Icon-96.png
+2015-12-03 09:06:14,254 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick.png
+2015-12-03 09:06:14,254 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick@1.5x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick@1.5x.png
+2015-12-03 09:06:14,254 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick@2x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick@2x.png
+2015-12-03 09:06:14,254 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick@4x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\inner-joystick@4x.png
+2015-12-03 09:06:14,269 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ios-icon-half.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ios-icon-half.png
+2015-12-03 09:06:14,269 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ios-icon.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ios-icon.png
+2015-12-03 09:06:14,269 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ios-splash-half.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ios-splash-half.png
+2015-12-03 09:06:14,269 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ios-splash.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ios-splash.png
+2015-12-03 09:06:14,269 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ios-splash5.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ios-splash5.png
+2015-12-03 09:06:14,269 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ios-splash6.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ios-splash6.png
+2015-12-03 09:06:14,269 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ios-splash6p.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ios-splash6p.png
+2015-12-03 09:06:14,269 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ipad-icon-half.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ipad-icon-half.png
+2015-12-03 09:06:14,285 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ipad-icon.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ipad-icon.png
+2015-12-03 09:06:14,285 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ipad-splash-half.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ipad-splash-half.png
+2015-12-03 09:06:14,285 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\ipad-splash.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\ipad-splash.png
+2015-12-03 09:06:14,285 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\linked to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\linked
+2015-12-03 09:06:14,285 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\linked\data.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\linked\data.xml
+2015-12-03 09:06:14,285 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\master-icon.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\master-icon.png
+2015-12-03 09:06:14,285 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\New folder to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\New folder
+2015-12-03 09:06:14,285 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick.png
+2015-12-03 09:06:14,285 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick@1.5x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick@1.5x.png
+2015-12-03 09:06:14,301 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick@2x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick@2x.png
+2015-12-03 09:06:14,301 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick@4x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\outer-joystick@4x.png
+2015-12-03 09:06:14,301 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\preloader.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\preloader.png
+2015-12-03 09:06:14,301 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\preloader@1.5x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\preloader@1.5x.png
+2015-12-03 09:06:14,301 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\preloader@2x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\preloader@2x.png
+2015-12-03 09:06:14,301 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\preloader@4x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\preloader@4x.png
+2015-12-03 09:06:14,301 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\resources
+2015-12-03 09:06:14,301 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\1-0.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\resources\1-0.png
+2015-12-03 09:06:14,316 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\1-0@1.5x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\resources\1-0@1.5x.png
+2015-12-03 09:06:14,316 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\1-0@2x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\resources\1-0@2x.png
+2015-12-03 09:06:14,316 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\1-0@4x.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\resources\1-0@4x.png
+2015-12-03 09:06:14,316 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml
+2015-12-03 09:06:14,316 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak
+2015-12-03 09:06:14,316 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\resources.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\resources.xml
+2015-12-03 09:06:14,316 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\scenes
+2015-12-03 09:06:14,316 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.png
+2015-12-03 09:06:14,316 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.scn to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.scn
+2015-12-03 09:06:14,332 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.txt to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.txt
+2015-12-03 09:06:14,332 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.xml
+2015-12-03 09:06:14,332 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\scenes\scenes.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\scenes\scenes.xml
+2015-12-03 09:06:14,332 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\snippets
+2015-12-03 09:06:14,332 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\0.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\snippets\0.png
+2015-12-03 09:06:14,332 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\1.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\snippets\1.png
+2015-12-03 09:06:14,332 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\ActorEvents_0.design to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\snippets\ActorEvents_0.design
+2015-12-03 09:06:14,332 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml
+2015-12-03 09:06:14,347 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml.bak to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml.bak
+2015-12-03 09:06:14,347 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design
+2015-12-03 09:06:14,347 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\win8-splash.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\win8-splash.png
+2015-12-03 09:06:14,347 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\games\Roosevelt OGPC\win8-tile.png to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\games\Roosevelt OGPC\win8-tile.png
+2015-12-03 09:06:14,347 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\logs to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\logs
+2015-12-03 09:06:14,347 DEBUG [SwingWorker-pool-9-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\KCantrell5436\Documents\GitHub\OGPC\stencylworks\logs\2015-12-03_08-57-30.log to: C:\Users\KCantrell5436\Downloads\OGPC\Roosevelt OGPC\stencylworks\logs\2015-12-03_08-57-30.log

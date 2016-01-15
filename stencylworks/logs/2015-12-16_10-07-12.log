@@ -1,0 +1,211 @@
+2015-12-16 10:07:13,011 INFO  [main] stencyl.sw.Session: Logfile: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-16_10-07-12.log
+2015-12-16 10:07:13,027 INFO  [main] stencyl.sw.Session: OS Name: Windows 7
+2015-12-16 10:07:13,027 INFO  [main] stencyl.sw.Session: OS Version: 6.1 (64-bit)
+2015-12-16 10:07:13,027 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_60
+2015-12-16 10:07:13,027 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.2 (b8734)
+2015-12-16 10:07:13,027 INFO  [main] stencyl.sw.Session: Stencyl Workspace: C:\Users\rmills0865\AppData\Roaming\Stencyl\
+2015-12-16 10:07:13,027 INFO  [main] stencyl.sw.Session: User Working Directory: C:\Program Files (x86)\Stencyl
+2015-12-16 10:07:13,027 INFO  [main] stencyl.sw.Session: User Home Directory: C:\Users\rmills0865
+2015-12-16 10:07:13,027 INFO  [main] stencyl.sw.Session: System Path: C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\CCM;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Stencyl\runtimes\jre-win\bin
+2015-12-16 10:07:13,105 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: C:\Users\RMILLS~1\AppData\Local\Temp\stencyl2030955998189188819
+2015-12-16 10:07:13,105 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2015-12-16 10:07:13,105 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2015-12-16 10:07:13,105 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2015-12-16 10:07:13,120 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2015-12-16 10:07:13,120 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2015-12-16 10:07:13,120 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2015-12-16 10:07:13,120 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2015-12-16 10:07:13,120 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2015-12-16 10:07:13,120 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2015-12-16 10:07:13,120 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2015-12-16 10:07:13,120 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2015-12-16 10:07:13,136 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2015-12-16 10:07:13,136 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2015-12-16 10:07:13,136 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2015-12-16 10:07:13,136 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2015-12-16 10:07:13,136 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2015-12-16 10:07:13,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2015-12-16 10:07:13,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2015-12-16 10:07:13,167 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-12-16 10:07:13,183 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Set Splash message: Look
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib actuate 1.6.5
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d 1.11.0
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d-fake 1.11.0
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib console 1.0.0
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib format 3.1.2
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxcpp 3.2.0
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxtelemetry 0.3.1
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib layout 1.1.0
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib lime 2.6.8
+2015-12-16 10:07:13,838 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib openfl 3.3.8
+2015-12-16 10:07:13,853 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-ds 1.4.1
+2015-12-16 10:07:13,853 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-printf 1.0.0.beta
+2015-12-16 10:07:13,853 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl 1.0.0
+2015-12-16 10:07:13,853 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl-cppia 1.0.0
+2015-12-16 10:07:13,853 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib svg 1.0.8
+2015-12-16 10:07:13,853 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib swf 1.7.4
+2015-12-16 10:07:13,853 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib tilelayer 0.2.1
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\extensions: []
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\extensions: []
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Loading engine extensions...
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions: [C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\ads, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\gamecenter, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\gestures, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\google, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\hypertouch, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\joystick, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\label, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\native, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\purchases, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\test, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\test-flash, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\test-native, C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\engine-extensions\tileapi]
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: ads is a core engine extension. Skip.
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: gamecenter is a core engine extension. Skip.
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: gestures is a core engine extension. Skip.
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: google is not a valid engine extension. Skip.
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: hypertouch is a core engine extension. Skip.
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: joystick is a core engine extension. Skip.
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: label is engine extension: Labels (1.0.0).
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: native is a core engine extension. Skip.
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: purchases is a core engine extension. Skip.
+2015-12-16 10:07:13,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: test is engine extension: Test Extension (1.0.0).
+2015-12-16 10:07:13,885 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: test-flash is engine extension: Test Extension (Flash SWF) (1.0.0).
+2015-12-16 10:07:13,885 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: test-native is engine extension: Test Extension (Native) (1.0.0).
+2015-12-16 10:07:13,885 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: tileapi is engine extension: Tile API (1.0.0).
+2015-12-16 10:07:13,885 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Engine Extensions: [Labels (1.0.0), Test Extension (1.0.0), Test Extension (Flash SWF) (1.0.0), Test Extension (Native) (1.0.0), Tile API (1.0.0)]
+2015-12-16 10:07:13,885 WARN  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Couldn't load extension settings.
+2015-12-16 10:07:13,885 INFO  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Toolset Extensions: []
+2015-12-16 10:07:14,087 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-12-16 10:07:14,087 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-12-16 10:07:14,087 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Dispose Splash
+2015-12-16 10:07:15,007 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: guest
+2015-12-16 10:07:15,007 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Could not log in. Check your login credentials.
+2015-12-16 10:08:04,470 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: dragEnter event.
+2015-12-16 10:08:04,626 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border saved.
+2015-12-16 10:08:04,626 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drag border set.
+2015-12-16 10:08:04,626 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: event accepted.
+2015-12-16 10:08:05,468 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drop event.
+2015-12-16 10:08:05,468 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: file list accepted.
+2015-12-16 10:08:05,468 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drop complete.
+2015-12-16 10:08:05,468 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border restored.
+2015-12-16 10:08:34,287 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\games\INVADERS
+2015-12-16 10:08:39,418 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\games\project1
+2015-12-16 10:08:44,907 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\games\project2
+2015-12-16 10:08:47,761 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\games\project3
+2015-12-16 10:08:51,504 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\games\project5
+2015-12-16 10:08:55,714 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\games\project4
+2015-12-16 10:08:59,270 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\games\project6
+2015-12-16 10:09:04,712 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\games\project5 1 1
+2015-12-16 10:13:22,787 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Preferences...
+2015-12-16 10:13:23,084 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\lang. It does not exist or is not a directory.
+2015-12-16 10:13:23,084 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within lang: [lang\br, lang\de, lang\el, lang\en, lang\es, lang\fi, lang\fr, lang\it, lang\nl, lang\pl, lang\pt, lang\ru, lang\zh, lang\zh_CN]
+2015-12-16 10:13:23,115 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Breton in lang\br
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found German in lang\de
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Greek in lang\el
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found English in lang\en
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Spanish in lang\es
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Finnish in lang\fi
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found French in lang\fr
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Italian in lang\it
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Dutch in lang\nl
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Polish in lang\pl
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Portuguese in lang\pt
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Russian in lang\ru
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese in lang\zh
+2015-12-16 10:13:23,131 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese (China) in lang\zh_CN
+2015-12-16 10:13:32,552 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.GeneralPage: Choose Folder...
+2015-12-16 10:13:49,681 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\temp
+2015-12-16 10:13:53,926 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is: C:\Users\rmills0865\AppData\Roaming\Stencyl\
+2015-12-16 10:13:53,926 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is being set to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\
+2015-12-16 10:13:53,942 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\prefs to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\prefs
+2015-12-16 10:13:53,942 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\prefs\auth.txt to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\prefs\auth.txt
+2015-12-16 10:13:53,973 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\prefs\boot.txt to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\prefs\boot.txt
+2015-12-16 10:13:53,973 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\prefs\designmode2.layout to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\prefs\designmode2.layout
+2015-12-16 10:13:54,222 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\prefs\favorites.xml to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\prefs\favorites.xml
+2015-12-16 10:13:54,394 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\prefs\log4j.xml to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\prefs\log4j.xml
+2015-12-16 10:13:54,425 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\prefs\picker-favorites.xml to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\prefs\picker-favorites.xml
+2015-12-16 10:13:54,441 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\prefs\scenedesigner.layout to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\prefs\scenedesigner.layout
+2015-12-16 10:13:54,456 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\games to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\games
+2015-12-16 10:13:54,456 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy directory from: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs
+2015-12-16 10:13:54,488 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-03_11-22-37.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-03_11-22-37.log
+2015-12-16 10:13:54,581 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-05_09-57-27.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-05_09-57-27.log
+2015-12-16 10:13:55,823 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-09_09-58-49.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-09_09-58-49.log
+2015-12-16 10:13:55,995 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-09_10-02-36.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-09_10-02-36.log
+2015-12-16 10:13:56,057 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-09_10-02-39.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-09_10-02-39.log
+2015-12-16 10:13:56,120 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-09_10-11-40.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-09_10-11-40.log
+2015-12-16 10:13:56,494 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-09_10-34-19.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-09_10-34-19.log
+2015-12-16 10:13:56,541 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-09_10-38-54.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-09_10-38-54.log
+2015-12-16 10:13:56,712 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-09_10-51-55.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-09_10-51-55.log
+2015-12-16 10:13:56,915 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-09_11-13-48.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-09_11-13-48.log
+2015-12-16 10:13:56,993 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-16_09-54-10.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-16_09-54-10.log
+2015-12-16 10:13:57,040 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-16_09-54-16.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-16_09-54-16.log
+2015-12-16 10:13:58,771 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-16_11-19-51.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-16_11-19-51.log
+2015-12-16 10:13:58,865 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-18_09-38-39.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-18_09-38-39.log
+2015-12-16 10:13:59,910 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-24_09-54-31.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-24_09-54-31.log
+2015-12-16 10:14:00,144 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-24_10-10-52.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-24_10-10-52.log
+2015-12-16 10:14:00,784 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-24_10-33-35.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-24_10-33-35.log
+2015-12-16 10:14:01,423 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-30_09-57-00.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-30_09-57-00.log
+2015-12-16 10:14:01,485 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-30_10-29-52.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-30_10-29-52.log
+2015-12-16 10:14:02,125 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-11-30_10-40-02.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-11-30_10-40-02.log
+2015-12-16 10:14:02,172 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-02_09-41-39.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-02_09-41-39.log
+2015-12-16 10:14:02,250 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-02_10-27-56.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-02_10-27-56.log
+2015-12-16 10:14:02,437 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-02_10-39-06.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-02_10-39-06.log
+2015-12-16 10:14:02,484 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-04_09-58-59.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-04_09-58-59.log
+2015-12-16 10:14:02,531 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-04_11-01-45.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-04_11-01-45.log
+2015-12-16 10:14:02,609 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-08_09-58-59.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-08_09-58-59.log
+2015-12-16 10:14:02,858 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-10_09-41-24.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-10_09-41-24.log
+2015-12-16 10:14:02,920 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-10_09-45-10.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-10_09-45-10.log
+2015-12-16 10:14:03,825 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-10_10-38-13.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-10_10-38-13.log
+2015-12-16 10:14:03,919 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-10_10-38-55.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-10_10-38-55.log
+2015-12-16 10:14:04,012 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-14_09-57-51.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-14_09-57-51.log
+2015-12-16 10:14:04,059 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-14_10-06-14.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-14_10-06-14.log
+2015-12-16 10:14:05,359 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-14_10-56-41.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-14_10-56-41.log
+2015-12-16 10:14:05,374 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-14_10-56-53.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-14_10-56-53.log
+2015-12-16 10:14:05,484 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-16_10-03-39.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-16_10-03-39.log
+2015-12-16 10:14:05,484 DEBUG [SwingWorker-pool-3-thread-1] stencyl.sw.util.FileHelper: Copy File: C:\Users\rmills0865\AppData\Roaming\Stencyl\stencylworks\logs\2015-12-16_10-07-12.log to: C:\Users\rmills0865\Google Drive\Roosevelt OGPC\stencylworks\logs\2015-12-16_10-07-12.log
